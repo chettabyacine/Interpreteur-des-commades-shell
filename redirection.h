@@ -1,0 +1,1 @@
+int redirection(int dsc,int flags,char **cmd,int index, int nbArgs, int* ret, int* boucle,char* precref, char* curr);

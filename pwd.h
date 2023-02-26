@@ -1,0 +1,1 @@
+extern int* pwd(int argc, char** argv, char* curr, int* ret);
